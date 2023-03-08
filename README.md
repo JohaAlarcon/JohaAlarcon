@@ -1,5 +1,6 @@
 ### Hi i'm Johana,  👋🏽👩🏽‍💻
-
+[Google Clone](johaalarcon.github.io/Google-clone/){:target="_blank"}
+[Transfor_and_Trasition]( https://johaalarcon.github.io/Transfor_and_Trasition_Curse_Platzi/){:target="_blank"}
 <!--
 **JohaAlarcon/JohaAlarcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
