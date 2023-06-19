@@ -1,20 +1,23 @@
-### Hi i'm Johana,  👋🏽👩🏽‍💻
+# ¡Bienvenidos a mi perfil de GitHub! :bar_chart: :rocket:
 
-<a href="https://johaalarcon.github.io/Google-clone/" target="_blank">Google Clone</a>
+## Acerca de mí :wave:
+¡Hola! Soy Johana Alarcon :raising_hand:, una apasionada de la ciencia de datos y la ingeniería de datos. Mi objetivo es convertirme en Analytics engineer altamente competente y utilizar mis habilidades para obtener ideas valiosas a partir de los datos y transformarlos en acciones significativas.
 
-<a href="https://johaalarcon.github.io/Transfor_and_Trasition_Curse_Platzi/)" target="_blank">Web Animation Transfor and Trasition </a>
+## Habilidades :dart:
+- Análisis de datos :chart_with_upwards_trend:
+- Visualización de datos :bar_chart:
+- Programación en Python :snake:
+- SQL :floppy_disk:
+- Procesamiento de datos :arrows_counterclockwise:
+- Extracción, transformación y carga de datos (ETL) :gear:
 
-<!--
-**JohaAlarcon/JohaAlarcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Educación :mortar_board:
+- Ingeniera Electronica,Especializacion y Maestria en Gestion de Proyectos 
+- Cursos en línea y certificaciones relacionadas con Ciencia de Datos e Ingeniería de Datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacto :mailbox_with_mail:
+¡Si te interesa mi trabajo o quieres colaborar en proyectos emocionantes, no dudes en contactarme! Puedes encontrarme en las siguientes redes sociales y plataformas:
+- LinkedIn: [Johana Alarcon]([enlace de tu perfil](https://www.linkedin.com/in/johana-alarcon-40113360/))
+- Correo electrónico: [johana.alarcon.tech@gmail.com]
+- Sitio web: [En proceso de construccion]
