@@ -19,5 +19,7 @@
 ## Contacto :mailbox_with_mail:
 ¡Si te interesa mi trabajo o quieres colaborar en proyectos emocionantes, no dudes en contactarme! Puedes encontrarme en las siguientes redes sociales y plataformas:
 - LinkedIn: [Johana Alarcon][https://www.linkedin.com/in/johana-alarcon-40113360/]
+- Twitter [https://twitter.com/Joalcon4]
+- Deepnote: [https://deepnote.com/workspace/johana-alarcon-tech-654f2ff0-d6dd-49c1-9a6a-6be478ea6f0b]
 - Correo electrónico: [johana.alarcon.tech@gmail.com]
 - Sitio web: [En proceso de construccion]
