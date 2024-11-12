@@ -1,66 +1,63 @@
+# 👩‍💻 Johana Alarcón Moya
 
-# ¡Bienvenidos a mi perfil de GitHub! 📊 🚀
+**Data Engineer | Data Analyst | Backend Developer**
 
+[Portfolio](https://johana-engineer.framer.ai/) • [LinkedIn](https://www.linkedin.com/in/johana-alarcon-40113360/) • [Platzi](https://platzi.com/p/Joalcon4/)
 
+## 💬 About Me
 
-## Acerca de mí 👋
-¡Hola! Soy Johana Alarcón 👩🏻‍💻 una apasionada de la ciencia de datos y la ingeniería de datos. Mi objetivo es convertirme en una Analytics Engineer altamente competente y utilizar mis habilidades para obtener ideas valiosas a partir de los datos y transformarlos en acciones significativas. Con 13 años de experiencia en Ingeniería Electrónica y especialización en Gestión de Proyectos, actualmente me enfoco en la Ingeniería de Datos y el Desarrollo Backend.
+Hello! I'm Johana, a versatile Data Engineer and Data Analyst with a strong foundation in **Electronic Engineering** and extensive experience in **Project Management**. I am passionate about transforming raw data into actionable insights, optimizing processes, and building data-driven solutions. I have a proven track record in backend development, data lifecycle management, and business intelligence.
 
-## Habilidades 🎯
-- SQL / SQLite 💾
-- Python 🐍
-- Pandas
-- Numpy
-- Matplotlib
-- Seaborn
-- Power BI
-- Airflow
-- dbt
-- Snowflake
-- Docker
-- Git y GitHub
-- Notebooks: Jupyter, Deepnote, Google Colab
-- FastAPI
-- Procesamiento de datos 🔄
-- Extracción, transformación y carga de datos (ETL) ⚙️
+## 🛠️ Skills
 
-## Educación 🎓
-- Ingeniera Electrónica, Universidad Autónoma de Colombia
-- Especialización en Gestión de Proyectos, PLATZI Career Path
-- Maestría en Gestión de Proyectos, ENEB - Barcelona Business School
-- Certificaciones y cursos en Ciencia de Datos e Ingeniería de Datos
+- **Programming Languages:** Python (Intermediate), SQL / SQLite (Advanced)
+- **Data Analysis:** Pandas, Numpy, Matplotlib, Seaborn
+- **Business Intelligence Tools:** Metabase (Intermediate), Looker
+- **Data Engineering:** Docker (Advanced), Airflow (Basic), dbt (Basic)
+- **Development Tools:** Git & GitHub (Advanced), FastAPI (Intermediate)
+- **Data Visualization:** Power BI, Jupyter Notebooks, Google Colab
+- **Cloud & Databases:** Snowflake (Basic), SQL Server, MySQL
 
-## Experiencia Profesional 💼
-- **Data Project Coordinator**, iMAKIA (Octubre 2023 - Actualidad)
-  - Gestión de proyectos de datos y desarrollo backend con JavaScript y Python.
-  - Implementación de mejores prácticas en gestión de datos y arquitectura de bases de datos.
-  
-- **Service Center Director**, ISEC SA (Abril 2021 - Mayo 2023)
-  - Análisis, diseño, implementación y auditoría de proyectos de seguridad electrónica y comunicaciones.
-  
-- **Project Professional Support Engineer**, ISEC SA (Febrero 2012 - Marzo 2021)
-  - Mantenimiento correctivo y preventivo de equipos electrónicos, instalación y configuración de sistemas de vigilancia y control de acceso.
+## 🌱 Currently Learning
 
-## Proyectos y Portafolio 📂
-- [Portafolio Personal](https://johana-engineer.framer.ai/)
+- Advanced techniques in **dbt** and **Apache Airflow** for data pipeline orchestration
+- Enhancing skills in **machine learning** and **AI integration** for advanced data analytics
 
-## Comunidades 👥
-- PyLadies Bogotá
-- Python Colombia
+## 👩‍💼 Professional Experience
 
-## Voluntariados ❤️
-- JS Conf Colombia 2023
-- PyCon Colombia 2024
-- Creadora del capítulo FastAPI Workshop
+- **Data Project Coordinator @ iMAKIA** (Oct 2023 - Present)
+  - Developing integrated data solutions focused on database architecture, ETL processes, and data quality.
+  - Building SQL models and data pipelines for reliable data flows across projects.
+  - Creating insightful dashboards in Metabase and Looker to support data-driven decision-making.
 
-## Idiomas 💬
-- Inglés (B2)
+- **Service Center Director @ ISEC SA** (Apr 2022 - May 2023)
+  - Managed electronic security and communication projects for public and private clients, including Ecopetrol.
+  - Led project tracking using Excel and Power BI, driving efficiency and enhancing KPIs.
+  - Applied agile methodologies to improve project timelines and team collaboration.
 
-## Información de Contacto 📬
-¡Si te interesa mi trabajo o quieres colaborar en proyectos emocionantes, no dudes en contactarme! Puedes encontrarme en las siguientes redes sociales y plataformas:
-- LinkedIn: [Johana Alarcon](https://www.linkedin.com/in/johana-alarcon-40113360/)
-- Twitter: [@Joalcon4](https://twitter.com/Joalcon4)
-- Deepnote: [Johana Alarcon](https://deepnote.com/workspace/johana-alarcon-tech-654f2ff0-d6dd-49c1-9a6a-6be478ea6f0b)
-- Correo electrónico: [johana.alarcon.tech@gmail.com](mailto:johana.alarcon.tech@gmail.com)
+- **Project Professional & Support Engineer @ ISEC SA** (Feb 2012 - Mar 2022)
+  - Maintained electronic equipment and optimized response times for electronic surveillance systems.
+  - Analyzed equipment failures, leading to increased system reliability and improved workflows.
+
+## 📚 Certifications
+
+- **Big Data Certified Professional** - Talento Tech MINTIC (Oct 2024)
+- **Data Analytics Certified Professional** - Talento Tech MINTIC (Oct 2024)
+- **Project Management Master** - ENEB (May 2023)
+- **Data Analysis with Python** - Platzi (Jun 2023)
+
+## 🌐 Community Involvement
+
+- **PyLadies Bogotá** - Active Member
+- **Python Colombia** - Contributor
+- **JS Conf Colombia 2023** - Volunteer
+- **PyCon Colombia 2024** - Volunteer
+- **Creator of FastAPI Workshop Chapter**
+
+## 📫 Contact
+
+- **Email:** johana.alarcon.tech@gmail.com
+- **Location:** Bogotá, Colombia
+- **Phone:** +57 317 2921350
 
 
